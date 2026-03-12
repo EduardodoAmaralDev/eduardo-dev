@@ -21,6 +21,7 @@ Minha página no Linkedin:
   </a>
   <br>
 Meu e-mail para contato:
+  <br>
   <a href="mailto:du_amaral22@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
