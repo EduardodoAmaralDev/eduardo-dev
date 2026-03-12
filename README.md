@@ -1,4 +1,4 @@
-# Olá! Eu sou o Eduardo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Eduardo%20Amaral&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 💻 Entusiasta de tecnologia e programação  
 🚀 Sempre aprendendo algo novo  
