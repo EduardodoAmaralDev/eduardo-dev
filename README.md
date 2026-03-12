@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Eduardo%20Amaral&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header&text=Eduardo%20Amaral&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 Olá! 👋  
 Meu nome é Eduardo e sou estudante de Desenvolvimento de Sistemas.  
