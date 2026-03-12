@@ -14,11 +14,12 @@ Sou entusiasta de tecnologia e programação, sempre buscando aprender algo novo
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+Minha página no Linkedin:
 <p>
   <a href="https://www.linkedin.com/in/eduardo-amaral-9a755a245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+Meu e-mail para contato:
   <a href="mailto:du_amaral22@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
