@@ -13,16 +13,12 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
----
-
-## 📫 Contato
-
 <p>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/eduardo-amaral-9a755a245/)">
+  <a href="[https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/eduardo-amaral-9a755a245/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:du_amaral22@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </p>
